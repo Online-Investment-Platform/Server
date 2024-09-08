@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "data-protal-key",
+      "type": "java.lang.String",
+      "description": "Description for data-protal-key."
+  }
+] }
